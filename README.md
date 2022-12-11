@@ -3,7 +3,7 @@ Module 9 Challenge
 
 # The repository contains the following folders and files:
 
-# Within the folder "Module_9":
+# Within the folder "Module_9" (see inside EmployeeSQL folder):
 
 # 1. The file "Database_ERD.png" contains an image file showing the ERD for the tables used for this assignment.
 
